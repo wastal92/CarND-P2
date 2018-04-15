@@ -40,8 +40,8 @@ The image after grayscaling and enhancing contrast is shown below.
 
 2. Model stucture
 My final model consisted of the following layers:
-**Layer**|**Description**
+Layer  |   Description
 ---------|---------------
-Input|$32\times32\times1$ gray image
-Convolution $5\times5$|$1\times1$stride, same padding, outputs $32\times32\times32$
+Input    |     $32\times32\times1$ gray image
+Convolution $5\times5$  |  $1\times1$stride, same padding, outputs $32\times32\times32$
 
