@@ -19,7 +19,7 @@ First, I downloaded the data set from [here](https://s3-us-west-1.amazonaws.com/
 
 2. Exploratory visualization of the dataset
 Here is an exploratory visualization of the train data set. Each number in the horizontal axis represents a class and the vertical axis stand for the number of examples in corresponding class.
-![dataset](/file_pisc/p1.png)
+![dataset](https://github.com/wastal92/CarND-P2/blob/master/test_examples/12.jpg)
 
 ### Design and Test a Model Architecture
 1. Preprocess the data
