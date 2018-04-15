@@ -1,4 +1,5 @@
-﻿# Traffic Signs Recognition
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+# Traffic Signs Recognition
 ---
 **Build a Traffic Sign Recognition Project**
 The goals / steps of this project are the following:
