@@ -40,6 +40,7 @@ The image after grayscaling and enhancing contrast is shown below.
 
 2. Model stucture
 My final model consisted of the following layers:
+
 Layer  |   Description
 ——————————|——————————
 Input    |   $32\times32\times1$ gray image
